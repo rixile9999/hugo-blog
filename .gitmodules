@@ -14,3 +14,6 @@
 	path = public
 	url = git@github.com:rixile9999/rixile.github.io.git
 	branch = main
+[submodule "themes/diary"]
+	path = themes/diary
+	url = https://github.com/AmazingRise/hugo-theme-diary.git
