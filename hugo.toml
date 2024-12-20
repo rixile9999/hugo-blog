@@ -1,4 +1,19 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rixile9999.github.io/rixile.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Welcome you!'
+theme = 'diary'
+
+enableGiscus = true
+[params.giscus]
+    data_repo="username/repo"
+    data-repo-id="**************************"    
+    data_category="General"
+    data_category_id="*********************"
+    data_mapping="pathname"
+    data_strict="0"
+    data_reactions_enabled="1"
+    data_emit_metadata="0"
+    data_input_position="bottom"
+    data_theme="preferred_color_scheme"
+    data_lang="en"
+    crossorigin="anonymous"
