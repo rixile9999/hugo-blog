@@ -25,7 +25,7 @@ theme = "diary"
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "perldoc"
+    style = "dracula"
     tabWidth = 4
 
 [params]
